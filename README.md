@@ -8,7 +8,7 @@
     
 </div>
 <div>
-Huazhong University of Science and Technology&emsp;
+Huazhong University of Science and Technology&emsp; 
 
 </div>
 </div>
